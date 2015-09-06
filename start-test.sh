@@ -1,4 +1,6 @@
 #!/bin/sh 
+
+# start script
 killall -9 agent
 killall -9 stats
 killall -9 hub
