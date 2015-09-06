@@ -1,5 +1,5 @@
 框架源码
-
+#very good
 <pre>
   agent -- GAME服务器
   cfg -- config.ini 读取
