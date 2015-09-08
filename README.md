@@ -1,5 +1,7 @@
 ###A game server skeleton implemented with golang.
 #changed on master branch
+#test 1
+
 ![Architecture](doc/arch.png)
 
 #### 部署:     
